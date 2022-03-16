@@ -1,0 +1,28 @@
+body {
+    padding: 30px;
+}
+
+.portfolio-item {
+    margin-bottom: 20px;
+}
+
+.fotter-blurb {
+    padding: 30px 0;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+.fotter-blurb h3 {
+    color: midnightblue;
+}
+
+.footer-blurb-item {
+    padding: 30px 0;
+}
+
+.copyright {
+    background-color: azure;
+    text-align: center;
+    padding: 30px 0;
+    color: midnightblue;
+}
